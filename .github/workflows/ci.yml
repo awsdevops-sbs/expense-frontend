@@ -19,7 +19,7 @@ jobs:
       - name: Code Review
         run: echo "Ok"
 
-      - name: Relea se software
+      - name: Release software
         run: echo "Ok"
 
 
