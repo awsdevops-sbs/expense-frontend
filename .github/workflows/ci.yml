@@ -1,5 +1,8 @@
 name: Continous integration
-on: [push]
+on:
+  push:
+    branches:
+      - main
 
 jobs:
   On_workflow_call:
